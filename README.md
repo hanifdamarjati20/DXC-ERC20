@@ -1,8 +1,7 @@
 # DXC-Token
 DogeCoin Classic Smart Contract ERC20
 
-/** *DogeCoin Classic Project */
-
+/** *Information */
 /**
   * @Name	         : DogeCoin Classic
   * @Symbol        : DXC
